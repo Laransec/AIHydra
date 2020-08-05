@@ -3,10 +3,12 @@
 
 ## Usage: 
 AI-Exploit.py
--t targetIP
--p Password to Set if the no password login attempt bounces
--c Command to run on the lights. 
--h Help 
+Flag | Usage
+----------------------------
+-t | targetIP
+-p | Password to Set if the no password login attempt bounces
+-c | Command to run on the lights. 
+-h | Help 
 
 # Background: 
 
